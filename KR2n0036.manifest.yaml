@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR2n0036/v1
 canonical_location: https://kanripo.org/bkk/KR2n0036/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 求古錄
   date: '2015-08-24 22:55:07.618457'
@@ -20,9 +20,9 @@ editions:
   label: 【四庫全書・文淵閣】
 assets:
   parts:
-  - {seq: 0, filename: KR2n0036_000.yaml, hash: 'sha256:414d7e97f31dd3f65536d1748b826760ff36c76e34c9deccc66abeeda0d43e7e'}
+  - {seq: 0, filename: KR2n0036_000.yaml, hash: 'sha256:df264491a0bb757021f1295b3f6b7fa55d850385600ad07a99e776292e885f1d'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2n0036_000.markers.yaml, hash: 'sha256:e39646dd265d2030499ba9d633de016af823f69d36e14f8da704fdf373ce1d0e'}
+  - {seq: 0, role: markers, filename: assets/KR2n0036_000.markers.yaml, hash: 'sha256:a2de819471c9d1650ff38062e337f0e3d72bc041fd45a91359d1b6475bfde722'}
 table_of_contents:
 - ref:
     seq: 0
@@ -54,4 +54,7 @@ table_of_contents:
   label: 求古録
   type: section
   level: 1
-hash: sha256:b25c269ab4bad6cf17c03d8c1071fe7a565722008507930932f929dd410a56e5
+hash: sha256:56ce29685bddb33cc35774238b564bd6b0478be3deb07ad82b5811e15ef1ea3e
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
