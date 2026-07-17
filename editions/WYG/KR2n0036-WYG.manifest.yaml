@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR2n0036_000-WYG.yaml, hash: 'sha256:921e727f552cb373f00d40dbac080d8ed1b6325427bd2034a200e32f607c4cf3'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2n0036_000-WYG.markers.yaml, hash: 'sha256:233da407568368d0b34f0a2e0738de5f9fe27837c8e0e42ff9b979ec1c8f1bff'}
+  - {seq: 0, role: markers, filename: assets/KR2n0036_000-WYG.markers.yaml, hash: 'sha256:f213479ae845010caff812423bb90e84e787cdb61336fa452edd2d455ca7eb1e'}
 table_of_contents:
 - ref:
     seq: 0
@@ -51,4 +51,4 @@ table_of_contents:
   label: 求古録
   type: section
   level: 1
-hash: sha256:5bbf8904ed17c082a9fbb3b7d6453eb06da6579d627a4bd9402f748912b831d0
+hash: sha256:2882aabf970c8464fa8e98266601ada69a588eab24e5fa19e6fcc3147c7c721d
